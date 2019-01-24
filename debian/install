@@ -1,0 +1,3 @@
+.build/							usr/src/georgswift1
+terraform/scripts/install.sh	usr/src/georgswift1
+terraform/scripts/start.sh		usr/src/georgswift1
